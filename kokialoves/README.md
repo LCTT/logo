@@ -1,6 +1,6 @@
 徽标
 Logo
-
+![image]（https://raw.githubusercontent.com/kokialoves/logo/master/kokialoves/logo.png）
 大小
 500 x 500 px.
 
