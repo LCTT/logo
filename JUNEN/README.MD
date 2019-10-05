@@ -6,29 +6,29 @@
 
 ![Logo](LOGO_02.png)
 
-线框示意图
+## 线框示意图
 
 ![Logo](00.png)
 
-带文字LOGO
+## 带文字LOGO
 
 ![Logo2](LOGO_03.png)
 
 ![Logo2](LOGO_04.png)
 
-图形提取
+## 图形提取
 
 ![Logo](LOGO_05.png)
 
 ![Logo](LOGO_06.png)
 
-LCTT
+## LCTT
 
 ![Logo](LOGO_07.png)
 
 ![Logo](LOGO_08.png)
 
-动态logo
+## 动态logo
 
 ![Logo](00.gif)
 
@@ -60,7 +60,7 @@ LCTT
 
 2、以网址linux.cn为主视觉元素，将网址图像化，强调网址，使人更容易记住；
 
-3、从头绘制里一套西文字体，以配合网站其他分支图标的应用，如LCTT社区（附图）；
+3、从头绘制了西文字体，以配合网站其他分支图标的应用，如LCTT社区（附图）；
 
 4、简洁的图形化logo带来可方可圆，背景可黑可白的特性，适用于小程序、公众号、网站小图标等多种场景；
 
