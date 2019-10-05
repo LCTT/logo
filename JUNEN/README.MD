@@ -40,6 +40,10 @@
 
 ![Logo](LOGO_other.png)
 
+![Logo](other_01.png)
+
+![Logo](other_02.png)
+
 ## 大小
 
 500 x 500 px.
