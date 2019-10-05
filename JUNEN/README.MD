@@ -4,10 +4,19 @@
 
 ![Logo1](LOGO_01.png)
 
-"logo-2.png"
+"主logo"
 
 ![Logo2](LOGO_02.png)
 
+![Logo2](LOGO_03.png)
+
+![Logo2](LOGO_04.png)
+
+![Logo2](LOGO_05.png)
+
+"图形提取"
+
+![Logo2](LOGO_06.png)
 ## 大小
 
 500 x 500 px.
