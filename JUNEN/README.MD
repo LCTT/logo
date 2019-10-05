@@ -28,6 +28,14 @@ LCTT
 
 ![Logo](LOGO_08.png)
 
+动态logo
+
+![Logo](00.gif)
+
+![Logo](01.gif)
+
+![Logo](02.gif)
+
 ## 衍生
 
 ![Logo](LOGO_other.png)
