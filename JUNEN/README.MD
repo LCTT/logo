@@ -2,7 +2,7 @@
 
 ![Logo](LOGO_01.png)
 
-"反黑色"
+反黑色
 
 ![Logo](LOGO_02.png)
 
@@ -22,13 +22,13 @@
 
 ![Logo](LOGO_06.png)
 
-LCTT logo
+LCTT
 
 ![Logo](LOGO_07.png)
 
 ![Logo](LOGO_08.png)
 
-## 一些衍生
+## 衍生
 
 ![Logo](LOGO_other.png)
 
