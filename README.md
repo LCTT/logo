@@ -32,3 +32,12 @@ Linux 中国徽标征集活动
 
 此外，参加本次征集活动，并获得一等奖作品的作者需同意将该作品的完整版权授予 Linux 中国，但作品作者的相关信息会在 Linux 中国官方予以记录和致谢。
 
+### 提交作品展示
+
+按提交时间顺序：
+
+[![](https://github.com/LCTT/logo/blob/master/wxy/logo.png)](https://github.com/LCTT/logo/tree/master/wxy)
+
+[![](https://github.com/LCTT/logo/blob/master/RedInLinux/RedInLinux.png)](https://github.com/LCTT/logo/tree/master/RedInLinux)
+
+
