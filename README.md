@@ -93,3 +93,5 @@ Linux 中国徽标征集活动
 [![](https://github.com/LCTT/logo/blob/master/JUNEN/LOGO_01.png)](https://github.com/LCTT/logo/tree/master/JUNEN)
 
 [![](https://github.com/LCTT/logo/blob/master/ZIN/logo.png)](https://github.com/LCTT/logo/tree/master/ZIN)
+
+[![](https://github.com/LCTT/logo/blob/master/Fine/linux.cn%20LOGO.jpg)](https://github.com/LCTT/logo/tree/master/Fine)
