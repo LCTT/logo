@@ -1,4 +1,4 @@
-# 具有 *现代* 设计语言的Linux中国Logo（第二次提交）
+![具有 现代 设计语言的Linux中国Logo](https://github.com/ice-kylin/logo/blob/master/icekylin-design/Show/Logo-Show-Title.png)
 
 ## 设计理念
 > 1. 简约大方
