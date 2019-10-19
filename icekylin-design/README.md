@@ -11,6 +11,7 @@
 由于新的Logo含义过分丰富，不符合Logo设计所要求的简洁易懂，故放弃了原有的设计方案，转而从现有Logo入手进行修改  
 对现有Logo重新进行了矢量化绘制，同时对现有Logo进行了变种，例如加入了Linux吉祥物Tux以及进行了艺术化处理（如图展示了主板样式的Logo）
 ### 关于样式
+![主板样式](https://github.com/ice-kylin/logo/blob/master/icekylin-design/Logo-NoneFrame-MotherBoard-None-PureColor.svg)  
 不同样式的Logo可以用于不同的地方!例如主板样式的Logo可以在与硬件相关的地方（文章或者网站的某一板块）使用  
 若选用了我的设计，未来我将继续设计不同的样式的Logo。我的想法是简历一个Github储存库以维护Logo，大家可以提出意见和建议
 ### 关于字体
