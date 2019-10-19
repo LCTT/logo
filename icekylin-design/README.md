@@ -7,6 +7,14 @@
 > 4. 像素完美
 
 ## 设计方案
+### 部分展示
+![](https://github.com/ice-kylin/logo/blob/master/icekylin-design/Logo-TextAble-Modern-PureColor.svg)
+![](https://github.com/ice-kylin/logo/blob/master/icekylin-design/Logo-NoneFrame-Line-None-GradualChange.svg)
+![](https://github.com/ice-kylin/logo/blob/master/icekylin-design/Logo-Round-Modern-None-PureColor.svg)
+![](https://github.com/ice-kylin/logo/blob/master/icekylin-design/Logo-Round-Modern-Tux-PureColor.svg)
+![](https://github.com/ice-kylin/logo/blob/master/icekylin-design/Logo-Round-ChinaStyle-Tux-PureColor.svg)
+![](https://github.com/ice-kylin/logo/blob/master/icekylin-design/Logo-Round-Line-None-GradualChange.svg)
+
 ### 总的来说
 由于新的Logo含义过分丰富，不符合Logo设计所要求的简洁易懂，故放弃了原有的设计方案，转而从现有Logo入手进行修改  
 对现有Logo重新进行了矢量化绘制，同时对现有Logo进行了变种，例如加入了Linux吉祥物Tux以及进行了艺术化处理（如图展示了主板样式的Logo）
