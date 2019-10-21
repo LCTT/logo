@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="&#x56FE;&#x5C42;_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
+	 y="0px" width="283.46px" height="283.46px" viewBox="0 0 283.46 283.46" style="enable-background:new 0 0 283.46 283.46;"
+	 xml:space="preserve">
+<g>
+	<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="41.1963" y1="175.7832" x2="242.2676" y2="106.5488">
+		<stop  offset="0" style="stop-color:#49C0E5"/>
+		<stop  offset="1" style="stop-color:#7A4999"/>
+	</linearGradient>
+	<circle style="fill:url(#SVGID_1_);" cx="141.732" cy="141.165" r="106.3"/>
+	<g>
+		<g>
+			<path style="fill:none;stroke:#FFFFFF;stroke-miterlimit:10;" d="M109.843,192.188c0,1.173-0.952,2.126-2.126,2.126H90.709
+				c-1.174,0-2.126-0.953-2.126-2.126V90.142c0-1.174,0.952-2.126,2.126-2.126h17.007c1.174,0,2.126,0.952,2.126,2.126V192.188z"/>
+			<path style="fill:none;stroke:#FFFFFF;stroke-miterlimit:10;" d="M194.881,192.188c0,1.173-0.952,2.126-2.125,2.126h-70.157
+				c-1.174,0-2.126-0.953-2.126-2.126V175.18c0-1.174,0.952-2.125,2.126-2.125h70.157c1.173,0,2.125,0.951,2.125,2.125V192.188z"/>
+		</g>
+		<line style="fill:none;stroke:#FFFFFF;stroke-miterlimit:10;" x1="88.583" y1="102.58" x2="109.843" y2="133.568"/>
+		<line style="fill:none;stroke:#FFFFFF;stroke-miterlimit:10;" x1="105.725" y1="88.016" x2="88.583" y2="141.164"/>
+		<line style="fill:none;stroke:#FFFFFF;stroke-miterlimit:10;" x1="88.583" y1="164.557" x2="109.843" y2="156.277"/>
+		<line style="fill:none;stroke:#FFFFFF;stroke-miterlimit:10;" x1="105.725" y1="127.567" x2="88.583" y2="156.277"/>
+		<line style="fill:none;stroke:#FFFFFF;stroke-miterlimit:10;" x1="88.583" y1="176.233" x2="109.843" y2="189.706"/>
+		<line style="fill:none;stroke:#FFFFFF;stroke-miterlimit:10;" x1="97.153" y1="194.314" x2="109.843" y2="173.055"/>
+		<line style="fill:none;stroke:#FFFFFF;stroke-miterlimit:10;" x1="88.583" y1="170.844" x2="109.843" y2="146.593"/>
+		<line style="fill:none;stroke:#FFFFFF;stroke-miterlimit:10;" x1="92.968" y1="127.567" x2="101.683" y2="194.314"/>
+		<line style="fill:none;stroke:#FFFFFF;stroke-miterlimit:10;" x1="97.153" y1="88.016" x2="88.583" y2="111.563"/>
+		<line style="fill:none;stroke:#FFFFFF;stroke-miterlimit:10;" x1="122.599" y1="194.314" x2="152.431" y2="173.055"/>
+		<line style="fill:none;stroke:#FFFFFF;stroke-miterlimit:10;" x1="122.599" y1="173.055" x2="152.431" y2="194.314"/>
+		<line style="fill:none;stroke:#FFFFFF;stroke-miterlimit:10;" x1="165.006" y1="173.055" x2="181.623" y2="194.314"/>
+		<line style="fill:none;stroke:#FFFFFF;stroke-miterlimit:10;" x1="145.234" y1="189.186" x2="157.677" y2="173.055"/>
+		<line style="fill:none;stroke:#FFFFFF;stroke-miterlimit:10;" x1="194.881" y1="175.18" x2="137.515" y2="194.314"/>
+		<line style="fill:none;stroke:#FFFFFF;stroke-miterlimit:10;" x1="166.198" y1="194.314" x2="177.132" y2="173.055"/>
+		<line style="fill:none;stroke:#FFFFFF;stroke-miterlimit:10;" x1="109.843" y1="105.725" x2="88.583" y2="118.075"/>
+	</g>
+</g>
+</svg>
