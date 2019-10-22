@@ -1,4 +1,5 @@
 ## 主LOGO
+再版小改，增加了对Linux中国旧版LOGO致敬的细节彩蛋
 
 ![Logo](01.jpg)
 
