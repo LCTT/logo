@@ -1,10 +1,10 @@
 ## 主LOGO
 
-![Logo](LOGO_01.png)
+![Logo](01.jpg)
 
 反黑色
 
-![Logo](LOGO_02.png)
+![Logo](02.jpg)
 
 ## 线框示意图
 
@@ -24,9 +24,9 @@
 
 ## LCTT
 
-![Logo](LOGO_07.png)
+![Logo](03.jpg)
 
-![Logo](LOGO_08.png)
+![Logo](04.jpg)
 
 ## 动态logo
 
