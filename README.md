@@ -34,4 +34,5 @@ Linux 中国徽标征集活动
 
 - [gallery.md](提交作品展示)
 
+- [award.md](活动结果)
 
